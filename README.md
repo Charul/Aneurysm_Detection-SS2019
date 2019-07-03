@@ -1,4 +1,4 @@
-# Image Aneurysm_Detection-SS2019
+# Image Segmentation,Aneurysm_Detection-SS2019
 
 An on-going Project for SS2019.
 
