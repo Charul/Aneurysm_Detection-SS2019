@@ -10,7 +10,7 @@ I have used UNET model for Aneursym_Detection with Pytorch based implementation.
 
 Not all the data provided is of the same shape hence and it had to be pre-processed before training.
 1. DataPreprocessing-charul-final.ipynb 
-   - Images are converted into the format 200*256*256
+   - Images are converted into the format (220,256,256)
    - Each DCIOM file is split into the slices 220 times. The result are jpeg images of the form 
         Slice0_0..... Slice0_119 for (Patient-0)
 
