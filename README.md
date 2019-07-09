@@ -24,7 +24,3 @@ Not all the data provided is of the same shape hence and it had to be pre-proces
    - DataLoader and training
   
 
-
- 
-# Testing_ipnyb
-# Testing_ipnyb
