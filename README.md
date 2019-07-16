@@ -2,7 +2,11 @@
 
 An on-going Project for SS2019.
 
-Below is my apprach towards solving the task.The learning is slow and indicates underfitting for now, I am yet to figure out the reason.
+
+UPDATE: I implemented a new Unet model with Keras and it now predicts the masks for an image with aneurysm.The final code is in the file with the name keras_unet_final. 
+
+----------------------------------------
+Below is my approach towards solving the task.The learning is slow and indicates underfitting for now, I am yet to figure out the reason.
 
 Introduction-
 The input data is real patient brain scans images of the shape (220,256,256) and masks of (220,256,256)
