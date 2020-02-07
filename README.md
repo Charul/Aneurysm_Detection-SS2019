@@ -1,6 +1,6 @@
 # Image Segmentation,Aneurysm_Detection-SS2019
 
-An on-going Project for SS2019.
+Project for SS2019.
 
 
 UPDATE: I implemented a new Unet model with Keras and it now predicts the masks for an image with aneurysm.The final code is in the file with the name keras_unet_final.I realized that from the 23k slices for the given dataset of 106 patients only 1750 where with aneurysm. So I trained the network with only aneurysms to see if if it learns to predict the masks and it does so. 
